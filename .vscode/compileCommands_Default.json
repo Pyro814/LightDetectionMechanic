@@ -1,0 +1,87 @@
+[
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\Bob.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\Bob.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\BobPlayerController.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\BobPlayerController.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\CombatInterface.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\CombatInterface.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\DetectionLight.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\DetectionLight.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightDetectionGame.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightDetectionGame.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightDetectionGame.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightDetectionGameGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightDetectionGameGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightDetectionGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightDetectionGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightInteractionInterface.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\Source\\LightDetectionGame\\LightInteractionInterface.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default\\LightDetectionGame.211.rsp\"",
+		"directory": "C:\\Users\\simao\\Documents\\UE_5.0\\Engine\\Source"
+	}
+]
