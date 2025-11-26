@@ -1,5 +1,5 @@
 /FI "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UnrealEditor\Development\PythonScriptPluginPreload\Definitions.PythonScriptPluginPreload.h" 
-/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\Intermediate\Build\Win64\LightDetectionGameEditor\Development\Core\SharedPCH.Core.ShadowErrors.h" 
+/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\LightDetectionMechanic\Intermediate\Build\Win64\LightDetectionGameEditor\Development\Core\SharedPCH.Core.ShadowErrors.h" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Experimental\PythonScriptPlugin\Source\PythonScriptPluginPreload\Private" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source\ThirdParty" 

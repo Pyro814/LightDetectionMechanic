@@ -1,5 +1,5 @@
 /FI "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Media\AvfMedia\Intermediate\Build\Win64\UnrealEditor\Development\AvfMediaFactory\Definitions.AvfMediaFactory.h" 
-/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\Intermediate\Build\Win64\LightDetectionGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h" 
+/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\LightDetectionMechanic\Intermediate\Build\Win64\LightDetectionGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Media\AvfMedia\Source\AvfMediaFactory\Private" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\MediaAssets" 

@@ -1,5 +1,5 @@
 /FI "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Runtime\ChunkDownloader\Intermediate\Build\Win64\UnrealEditor\Development\ChunkDownloader\Definitions.ChunkDownloader.h" 
-/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\Intermediate\Build\Win64\LightDetectionGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h" 
+/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\LightDetectionMechanic\Intermediate\Build\Win64\LightDetectionGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Runtime\ChunkDownloader\Source\Private" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Core" 

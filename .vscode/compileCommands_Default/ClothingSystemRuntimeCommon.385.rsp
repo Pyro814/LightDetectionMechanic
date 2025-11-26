@@ -1,5 +1,5 @@
 /FI "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Development\ClothingSystemRuntimeCommon\Definitions.ClothingSystemRuntimeCommon.h" 
-/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\Intermediate\Build\Win64\LightDetectionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h" 
+/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\LightDetectionMechanic\Intermediate\Build\Win64\LightDetectionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source\Runtime\ClothingSystemRuntimeCommon\Private" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine" 

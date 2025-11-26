@@ -1,5 +1,5 @@
 /FI "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Experimental\GeometryCollectionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\GeometryCollectionSequencer\Definitions.GeometryCollectionSequencer.h" 
-/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\Intermediate\Build\Win64\LightDetectionGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h" 
+/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\LightDetectionMechanic\Intermediate\Build\Win64\LightDetectionGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Experimental\GeometryCollectionPlugin\Source\GeometryCollectionSequencer\Private" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\AssetTools" 

@@ -1,5 +1,5 @@
 /FI "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Development\AudioLinkCore\Definitions.AudioLinkCore.h" 
-/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\Intermediate\Build\Win64\LightDetectionGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h" 
+/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\LightDetectionMechanic\Intermediate\Build\Win64\LightDetectionGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\AudioLinkCore" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source\Runtime\AudioLink" 

@@ -4,7 +4,7 @@
             "name": "LightDetectionGameEditor Editor Win64 Development (LightDetectionGame)",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_LightDetectionGame.json"
+                "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\LightDetectionMechanic\\.vscode\\compileCommands_LightDetectionGame.json"
             ],
             "cStandard": "c17",
             "cppStandard": "c++17"
@@ -13,7 +13,7 @@
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\.vscode\\compileCommands_Default.json"
+                "C:\\Users\\simao\\Documents\\Unreal Projects\\LightDetectionGame\\LightDetectionMechanic\\.vscode\\compileCommands_Default.json"
             ],
             "cStandard": "c17",
             "cppStandard": "c++17"

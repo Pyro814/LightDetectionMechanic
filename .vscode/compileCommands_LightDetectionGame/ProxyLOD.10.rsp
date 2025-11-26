@@ -1,5 +1,5 @@
 /FI "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Experimental\ProxyLODPlugin\Intermediate\Build\Win64\UnrealEditor\Development\ProxyLODMeshReduction\Definitions.ProxyLODMeshReduction.h" 
-/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\Intermediate\Build\Win64\LightDetectionGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.ShadowErrors.h" 
+/FI "C:\Users\simao\Documents\Unreal Projects\LightDetectionGame\LightDetectionMechanic\Intermediate\Build\Win64\LightDetectionGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.ShadowErrors.h" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Source" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Plugins\Experimental\ProxyLODPlugin\Source\ProxyLOD\Private" 
 /I "C:\Users\simao\Documents\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Core" 
